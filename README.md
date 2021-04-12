@@ -1,6 +1,8 @@
 # Tugas_GUI_QT-Desainer
 Nama  :Adam Nur Kridabayu
+
 NIM   :19104078
+
 Kelas :Se-03-B
 
 # Tampilan Kalender
